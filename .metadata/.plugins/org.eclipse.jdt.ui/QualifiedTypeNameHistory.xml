@@ -30,4 +30,10 @@
     <fullyQualifiedTypeName name="javaHomeWork3.UserManager"/>
     <fullyQualifiedTypeName name="javaHomeWork3.InstructorManager"/>
     <fullyQualifiedTypeName name="javaHomeWork3.StudentManager"/>
+    <fullyQualifiedTypeName name="interfaces.Logger"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+    <fullyQualifiedTypeName name="interfaces.FileLogger"/>
+    <fullyQualifiedTypeName name="interfaces.SmsLogger"/>
+    <fullyQualifiedTypeName name="interfaces.EmailLogger"/>
+    <fullyQualifiedTypeName name="interfaces.DatabaseLogger"/>
 </qualifiedTypeNameHistroy>
