@@ -1,0 +1,19 @@
+package javaHomeWork3;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		//User user = new User();
+		//user.setId(1);
+		//user.setName("Mehmet");
+		//user.setAge(26);
+		//System.out.println(user.getName());
+		
+		Student student = new Student(1,"Mehmet",26);
+		System.out.println(student.getName());
+		
+
+	}
+
+}
