@@ -1,9 +1,0 @@
-package oopIntro;
-
-public class Category {
-	//Private sadece bu classtan eriþilebilir dýþardan eriþim yasak
-	private int id;
-	private String name;
-	
-
-}

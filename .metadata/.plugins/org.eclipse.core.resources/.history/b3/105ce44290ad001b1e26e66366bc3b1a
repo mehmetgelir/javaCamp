@@ -1,6 +1,0 @@
-package inheritancebtk;
-
-public class Customer {
-	
-	String email;
-}

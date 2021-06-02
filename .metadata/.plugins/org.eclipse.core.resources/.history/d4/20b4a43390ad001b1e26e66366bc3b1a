@@ -1,9 +1,0 @@
-package inheritancebtk;
-
-public class Customer {
-	int id;
-	String firsName;
-	String lastName;
-	int age;
-	String email;
-}

@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="oopIntro.Product"/>
-    <fullyQualifiedTypeName name="inheritance.IndividualCustomer"/>
-    <fullyQualifiedTypeName name="inheritance.CorporateCustomer"/>
-    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
-    <fullyQualifiedTypeName name="inheritance2.LogManager"/>
-    <fullyQualifiedTypeName name="inheritance2.DatabaseLogger"/>
-    <fullyQualifiedTypeName name="inheritance2.CustomerManager"/>
-    <fullyQualifiedTypeName name="inheritance2.EmailLogger"/>
-    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
-    <fullyQualifiedTypeName name="oopIntro.ProductManager"/>
     <fullyQualifiedTypeName name="inheritancebtk.EmployeeManager"/>
     <fullyQualifiedTypeName name="inheritanceBtkDemo.OgretmenKrediManager"/>
     <fullyQualifiedTypeName name="inheritanceBtkDemo.TarımKrediManager"/>
@@ -59,4 +48,16 @@
     <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Crud"/>
     <fullyQualifiedTypeName name="staticDemo.DatabaseHelper"/>
     <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Connection"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="matematik.DortIslem"/>
+    <fullyQualifiedTypeName name="matematik.Logoritma"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerService"/>
+    <fullyQualifiedTypeName name="Concrete.NeroCustomerManager"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="Entities.Customer"/>
+    <fullyQualifiedTypeName name="Concrete.StarbucksCustomerManager"/>
+    <fullyQualifiedTypeName name="Abstract.BaseCustomerManager"/>
+    <fullyQualifiedTypeName name="Abstract.CustomerCheckService"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
 </qualifiedTypeNameHistroy>

@@ -1,6 +1,0 @@
-package inheritance;
-//üzerinde hesap yapýlmayacak veriler metinsel olarak yazýlmalýdýr.
-public class Customer {
-	int id;
-	 String customerNumber; 
-}

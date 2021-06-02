@@ -1,8 +1,0 @@
-package inheritancebtk;
-
-public class Employee {
-	
-	double salary;
-	
-
-}
